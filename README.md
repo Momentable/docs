@@ -8,6 +8,6 @@ Momentable provides web applications for managing and sharing life's most memora
 > _Visit http://momentable.com to register as a client to host Momentable apps for your customers._
 
 - Preface
-    - [Introduction](/docs/introduction.md)
+    - [Introduction](introduction.md)
 - Authentication
-    - [OAuth for Clients](/docs/client-oauth.md)
+    - [OAuth for Clients](client-oauth.md)
