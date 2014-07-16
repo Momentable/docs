@@ -10,4 +10,4 @@ Momentable provides web applications for managing and sharing life's most memora
 - Preface
     - [Introduction](/docs/introduction)
 - Authentication
-    - [OAuth for Clients](/docs/oauth)
+    - [OAuth for Clients](/docs/client-oauth)
